@@ -1,0 +1,56 @@
+[
+  {
+    "description": "A site that lets you rate pet pictures",
+    "link": "https://github.com/rjclemmer/PetYelp",
+    "img": "img url",
+    "name": "PetYelp"
+  },
+  {
+    "description": "A password generator",
+    "link": "https://github.com/SSteelCommander/passwordGenerator",
+    "img": "img url",
+    "name": "Password Generator"
+  },
+  {
+    "description": "A weather forecast app",
+    "link": "https://github.com/SSteelCommander/weather",
+    "img": "img url",
+    "name": "Weather Forecast"
+  },
+  {
+    "description": "A employee organizer",
+    "link": "https://github.com/SSteelCommander/sql",
+    "img": "img url",
+    "name": "Employee Organizer"
+  },
+  {
+    "description": "A readme generator",
+    "link": "https://github.com/SSteelCommander/ReadMe-Gen",
+    "img": "img url",
+    "name": "Readme Generator"
+  },
+  {
+    "description": "A quiz",
+    "link": "https://github.com/SSteelCommander/CSquiz",
+    "img": "img url",
+    "name": "CS Quiz"
+  },
+  {
+    "description": "An app for taking notes",
+    "link": "https://github.com/SSteelCommander/notetake",
+    "img": "img url",
+    "name": "NoteTake"
+  },
+  {
+    "description": "An app that generates a site for a team",
+    "link": "https://github.com/SSteelCommander/Team-profile-generator-10",
+    "img": "img url",
+    "name": "Team Profile Generator"
+  },
+  {
+    "description": "A site for planning out your day",
+    "link": "https://github.com/SSteelCommander/calender",
+    "img": "img url",
+    "name": "Day Planner"
+  }
+]
