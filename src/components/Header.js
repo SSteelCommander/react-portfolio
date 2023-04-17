@@ -7,7 +7,7 @@ export default function Header() {
     <Box bg="gray.50" py={4} position="sticky" top="0" zIndex="sticky">
       <Flex alignItems="center" maxW="6xl" mx="auto">
         <Box fontSize="2xl" fontWeight="bold">
-          Nate Ricciadi
+          Nate Ricciardi
         </Box>
         <Spacer />
         <Box>

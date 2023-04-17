@@ -10,14 +10,12 @@ export default function AboutMe() {
         <Image src={Avatar} alt="Avatar" borderRadius="full" boxSize="150px" />
         <Box ml={8}>
           <Text fontSize="2xl" fontWeight="bold">
-            My Name
+            Nate Ricciardi
           </Text>
-          <Text fontSize="lg">Frontend Developer</Text>
+          <Text fontSize="lg">Junoir developer</Text>
           <Text fontSize="lg" color="gray.500">
-            I'm a frontend developer with experience building web applications
-            using React and other modern web technologies. I'm passionate about
-            creating intuitive, user-friendly interfaces and building scalable,
-            maintainable codebases.
+            Im a junoir developer looking to expand his horisons. I have experience in 
+            java, javascript, python, css, html but am always ready to learn.
           </Text>
         </Box>
       </Flex>
